@@ -54,10 +54,10 @@
 ---
 
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=imransid&theme=vue)]
+![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=imransid&theme=vue)
 <br />
 
-[![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imransid&theme=vue)]
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imransid&theme=vue)
 
 
 
