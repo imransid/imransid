@@ -36,7 +36,7 @@
 
 ---
 
-<img alt="cover GIF" height=300 width=400 src="https://raw.githubusercontent.com/siam456/siam456/main/Image/cover.gif" />
+<img alt="cover GIF" height=300 width=400 src="https://raw.githubusercontent.com/imransid/imransid/main/Image/cover.gif" />
 
 
 - 🔭 I’m currently working on MERN.
@@ -53,16 +53,17 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=imransid&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=imransid&theme=vue)](https://github.com/imransid/github-readme-stats) -->
 <br />
 
-![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imransid&theme=dark)
+[![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imransid&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imransid&theme=dark)](https://git.io/streak-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imransid)  
 
 
-<!-- #### :technologist: Personal Portfolio: [devsiam.netlify.app](https://devsiam.netlify.app/) -->
+#### :technologist: Personal Portfolio: [devsiam.netlify.app](https://devsiam.netlify.app/)
