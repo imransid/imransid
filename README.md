@@ -53,17 +53,17 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imransid&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imransid&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=imransid&theme=vue)](https://github.com/imransid/github-readme-stats) -->
 <br />
 
-[![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imransid&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imransid&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imransid&theme=dark)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imransid&theme=dracula)  
 
 
 #### :technologist: Personal Portfolio: [devsiam.netlify.app](https://devsiam.netlify.app/)
