@@ -36,7 +36,7 @@
 
 ---
 
-<img alt="cover GIF" height=300 width=400 src="https://raw.githubusercontent.com/imransid/imransid/main/Image/cover.gif" />
+<img alt="cover GIF" height=300 width=400 src="https://raw.githubusercontent.com/siam456/siam456/main/Image/cover.gif" />
 
 
 - 🔭 I’m currently working on MERN.
@@ -54,7 +54,7 @@
 ---
 
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=siam456&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=imransid&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imransid&theme=vue)
