@@ -54,7 +54,7 @@
 ---
 
 
-![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=imransid&theme=vue)
+![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=imransid&theme=vue)(https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imransid&theme=vue)
@@ -62,7 +62,7 @@
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imransid)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=imransid&theme=vue)](https://git.io/streak-stats)
 
 
-#### :technologist: Personal Portfolio: [devsiam.netlify.app](https://devsiam.netlify.app/)
+<!-- #### :technologist: Personal Portfolio: [devsiam.netlify.app](https://devsiam.netlify.app/) -->
