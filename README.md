@@ -174,6 +174,8 @@ Let’s build something amazing together! 🚀
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imransid&repo=IQTest)](https://github.com/imransid/IQTest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imransid&repo=balanzify-hr-payroll)](https://github.com/imransid/IQTest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imransid&repo=IQTest)](https://github.com/imransid/Nuzha)
 
 
 
