@@ -144,7 +144,7 @@ Over the years, I have worked on a variety of projects, ranging from mobile appl
 ## 🤝 Let’s Connect!  
 I am always open to new opportunities, collaborations, and discussions about technology and innovation.
 
-📩 Feel free to reach out to me via **LinkedIn**: [LinkedIn Profile](#)
+📩 Feel free to reach out to me via **LinkedIn**: [LinkedIn Profile](#https://www.linkedin.com/in/imran-khan-9bb7b5147/)
 
 Let’s build something amazing together! 🚀
 
