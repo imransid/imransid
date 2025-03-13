@@ -173,6 +173,9 @@ Let’s build something amazing together! 🚀
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imransid&theme=dracula)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imransid&show_icons=true&theme=dracula)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imransid&repo=IQTest)](https://github.com/imransid/IQTest)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imransid&repo=balanzify-hr-payroll)](https://github.com/imransid/IQTest)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imransid&repo=IQTest)](https://github.com/imransid/Nuzha)
