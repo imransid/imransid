@@ -161,12 +161,18 @@ Let’s build something amazing together! 🚀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imransid&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=imransid&theme=vue)](https://github.com/imransid/github-readme-stats) -->
+<br />
+
+[![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imransid&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![Rafa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imransid)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imransid&theme=dracula)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imransid&show_icons=true&theme=radical)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imransid&repo=IQTest)](https://github.com/imransid/IQTest)
