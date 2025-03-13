@@ -167,6 +167,8 @@ Let’s build something amazing together! 🚀
 
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imransid&repo=IQTest)](https://github.com/imransid/IQTest)
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imransid&theme=dracula)  
 
