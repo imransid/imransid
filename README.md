@@ -167,7 +167,7 @@ Let’s build something amazing together! 🚀
 
 
 
-[![Rafa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imransid)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@imransid)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imransid&theme=dracula)
@@ -177,7 +177,7 @@ Let’s build something amazing together! 🚀
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imransid&repo=IQTest)](https://github.com/imransid/IQTest)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imransid&repo=balanzify-hr-payroll)](https://github.com/imransid/IQTest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imransid&repo=IQTest)](https://github.com/imransid/Nuzha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imransid&repo=Nuzha)](https://github.com/imransid/Nuzha)
 
 
 
