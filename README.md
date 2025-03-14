@@ -166,8 +166,7 @@ Let’s build something amazing together! 🚀
 [![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imransid&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[![Rafa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@imransid)](https://github.com/anuraghazra/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@imransid/ac61f492-7523-447d-9b0b-7426c9899b33.svg"></embed></figure>
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imransid&theme=dracula)
