@@ -156,6 +156,11 @@ Let’s build something amazing together! 🚀
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/imran-khan-9bb7b5147/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/xlentxid)
 
+
+
+![WakaTime Stats](https://wakatime.com/share/@imransid/8afc64c5-0437-4350-aece-e9170562a74a.svg)
+
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imransid&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
